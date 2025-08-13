@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yamaguchi-4869&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=oharu121&show_icons=true&theme=radical" />
