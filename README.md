@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=YAXU-115&show_icons=true&theme=radical" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAXU-115&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAXU-115&layout=compact)
